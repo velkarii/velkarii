@@ -16,7 +16,7 @@ Beyond my passion for gaming, I study **Game Development** at **DSW Wrocław** a
 - **Engine:** Unreal Engine 5  
 - **Coding Language:** C++  
 - **Version Control:** Git  
-- **Project Management:** Jira  
+- **Project Management:** Trello
 
 ## 🌱 What I'm Currently Learning 
 - **Gameplay Programming** – Implementing mechanics, combat systems, and AI behavior  
