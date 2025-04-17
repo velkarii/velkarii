@@ -10,7 +10,7 @@ Beyond my passion for gaming, I study Computer Science specializing in Game Prog
 You can find me at Wrocław gamedev events! I'm attending any that I physically can! So lets talk at "Gamedevowe Pogaduchy" or "Spotkania Wrocławskiego Gamedevu".
 
 ## 🚀 Current Projects  
-- **Hello IT Project** – Unreal Engine 5 + C++ | **Souls-like inspired ARPG** (~5-person team)  
+- **Hello IT Project** – Unreal Engine 5 + C++ | **Souls-like inspired ARPG** (7-person team)  
 - **Horror_Game** – Unreal Engine 5 + C++ | **First-person Psychological Horror** (3-person team)  
 - **UE Edit Extension** – Unreal Engine Editor Plugin
 
