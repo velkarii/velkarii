@@ -11,8 +11,8 @@ You can find me at Wrocław gamedev events! I'm attending any that I physically 
 
 ## 🚀 Current Projects  
 - **Hello IT Project** – Unreal Engine 5 + C++ | **Souls-like inspired ARPG** (~5-person team)  
-- **Subject One** – Unreal Engine 5 + C++ | **First-person Psychological Horror** (3-person team)  
-- **Subject Two** – Unity + C# | **Simple and short fantasy RPG** (details TBD)
+- **Horror_Game** – Unreal Engine 5 + C++ | **First-person Psychological Horror** (3-person team)  
+- **UE Edit Extension** – Unreal Engine Editor Plugin
 
 ## Technologies  
 - **Engine:** Unreal Engine 5  
