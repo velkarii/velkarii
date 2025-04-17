@@ -3,9 +3,11 @@
 The name is **Dawid Borys**, fellow Hunter, Tarnished, Wolf, Hollow, Human... and yada yada...
 
 ## Who am I?
-**An aspiring Game Developer** with a focus on **Unreal Engine 5** and **C++**, driven by a deep passion for **RPG** games. I'm also a fan of challenging experiences, especially **souls-like** games!  
+An aspiring Game Programmer with a focus on Unreal Engine 5 and C++, driven by a deep passion for RPG games. I'm also a fan of challenging experiences, especially souls-like games!
 
-Beyond my passion for gaming, I study **Game Development** at **DSW Wrocław** and actively participate in [Hello IT](https://www.facebook.com/HIThelloit/)-our university's Science Club, where students collaborate to create games and more. Currently, I'm working on my first three games (not yet public), leading our House at Hello IT, and managing game projects for two of our course subjects.  
+Beyond my passion for gaming, I study Computer Science specializing in Game Programming at Uniwersytet Donlośląski DSW and actively participate in Hello IT, an Academic Circle, where students collaborate to create games and more. I am leading a team of 7 students and we are building small souls-like game. Apart from leading it I am also a main programmer and I implement our AI. Additionally I'm an Intern at NE Games as a Game Programmer. 
+
+You can find me at Wrocław gamedev events! I'm attending any that I physically can! So lets talk at "Gamedevowe Pogaduchy" or "Spotkania Wrocławskiego Gamedevu".
 
 ## 🚀 Current Projects  
 - **Hello IT Project** – Unreal Engine 5 + C++ | **Souls-like inspired ARPG** (~5-person team)  
