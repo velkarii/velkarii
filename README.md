@@ -23,7 +23,8 @@ You can find me at Wrocław gamedev events! I'm attending any that I physically 
 ## 🌱 What I'm Currently Learning 
 - **Gameplay Programming** – Implementing mechanics, combat systems, and AI behavior  
 - **Blueprints & C++** – Combining Unreal Engine Blueprints with C++ for optimized workflow  
-- **Game Design Principles** – Understanding level design, player experience, and balancing  
+- **Extending the UE Editor** - Custom Plugins
+- **Implementing AI** - Creating Souls-like Boss
 - **Optimization & Debugging** – Profiling and improving performance in Unreal Engine
 
 ## Languages  
