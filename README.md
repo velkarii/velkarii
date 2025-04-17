@@ -21,7 +21,7 @@ You can find me at Wrocław gamedev events! I'm attending any that I physically 
 - **Project Management:** Trello
 
 ## 🌱 What I'm Currently Learning 
-- **Gameplay Programming** – Implementing mechanics, combat systems, and AI behavior  
+- **Gameplay Programming** – Implementing mechanics and combat systems 
 - **Blueprints & C++** – Combining Unreal Engine Blueprints with C++ for optimized workflow  
 - **Extending the UE Editor** - Custom Plugins
 - **Implementing AI** - Creating Souls-like Boss
