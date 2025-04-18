@@ -1,6 +1,6 @@
 # Praise the sun! ☀️  
 
-The name is **Dawid Borys**, fellow Hunter, Tarnished, Wolf, Hollow, Human... and yada yada...
+I'm David and hereby I welcome thee to my github ^^
 
 ## Who am I?
 An aspiring Game Programmer with a focus on Unreal Engine 5 and C++, driven by a deep passion for RPG games. I'm also a fan of challenging experiences, especially souls-like games!
@@ -9,10 +9,9 @@ Beyond my passion for gaming, I study Computer Science specializing in Game Prog
 
 You can find me at Wrocław gamedev events! I'm attending any that I physically can! So lets talk at "Gamedevowe Pogaduchy" or "Spotkania Wrocławskiego Gamedevu".
 
-## 🚀 Current Projects  
+## 🚀 Current Personal Projects  
 - **Hello IT Project** – Unreal Engine 5 + C++ | **Souls-like inspired ARPG** (7 students team)  
 - **Horror_Game** – Unreal Engine 5 + C++ | **First-person Psychological Horror** (3 students team)  
-- **UE Edit Extension** – Unreal Engine Editor Plugin
 
 ## Technologies  
 - **Engine:** Unreal Engine 5  
